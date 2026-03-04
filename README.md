@@ -1,4 +1,4 @@
-# Life Expectancy & Development (Gapminder) — R/Quarto Portfolio Project
+# Life Expectancy & Development (Gapminder) — R/Quarto Project
 
 A complete, reproducible R project showing:
 
